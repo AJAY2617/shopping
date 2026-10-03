@@ -1,0 +1,146 @@
+[
+  {
+    "id": "headphones",
+    "name": "Studio Wireless Headphones",
+    "category": "Electronics",
+    "price": 2499,
+    "mrp": 4999,
+    "rating": 4.7,
+    "reviews": 128,
+    "tag": "TOP PICK",
+    "image": "headphones.jpg",
+    "description": "Find your rhythm with comfortable over-ear headphones. A simple upgrade for your music, calls and everyday listening.",
+    "specs": [
+      "Over-ear design",
+      "Wireless connectivity",
+      "Black finish"
+    ],
+    "active": true
+  },
+  {
+    "id": "smartphone",
+    "name": "Everyday Smartphone",
+    "category": "Mobiles",
+    "price": 17999,
+    "mrp": 22999,
+    "rating": 4.5,
+    "reviews": 86,
+    "tag": "GREAT VALUE",
+    "image": "smartphone.jpg",
+    "description": "Stay connected, capture the little moments and bring your favourite apps along. A smartphone for your daily routine.",
+    "specs": [
+      "Touchscreen display",
+      "Rear camera",
+      "Pocket-friendly design"
+    ],
+    "active": true
+  },
+  {
+    "id": "sneakers",
+    "name": "Everyday Classic Sneakers",
+    "category": "Fashion",
+    "price": 1899,
+    "mrp": 2999,
+    "rating": 4.6,
+    "reviews": 214,
+    "tag": "STYLE EDIT",
+    "image": "sneakers.jpg",
+    "description": "An easy-going pair for your everyday wardrobe. Pair them with denim, joggers or your favourite weekend outfit.",
+    "specs": [
+      "Low-top silhouette",
+      "Lace-up closure",
+      "Casual style"
+    ],
+    "active": true
+  },
+  {
+    "id": "smartwatch",
+    "name": "Essential Smartwatch",
+    "category": "Electronics",
+    "price": 3299,
+    "mrp": 5499,
+    "rating": 4.4,
+    "reviews": 97,
+    "tag": "TRENDING",
+    "image": "smartwatch.jpg",
+    "description": "A modern watch to make a little more of every day. A clean design that feels at home at work and on the weekend.",
+    "specs": [
+      "Digital display",
+      "Adjustable strap",
+      "Everyday wearable"
+    ],
+    "active": true
+  },
+  {
+    "id": "backpack",
+    "name": "Everyday Adventure Backpack",
+    "category": "Fashion",
+    "price": 1499,
+    "mrp": 2499,
+    "rating": 4.6,
+    "reviews": 63,
+    "tag": "EVERYDAY ESSENTIAL",
+    "image": "backpack.jpg",
+    "description": "Pack your essentials and head out. A versatile backpack for commutes, days out and your next little adventure.",
+    "specs": [
+      "Adjustable shoulder straps",
+      "Zip closure",
+      "Everyday carry"
+    ],
+    "active": true
+  },
+  {
+    "id": "camera",
+    "name": "Creative Digital Camera",
+    "category": "Electronics",
+    "price": 42999,
+    "mrp": 49999,
+    "rating": 4.8,
+    "reviews": 45,
+    "tag": "CREATOR PICK",
+    "image": "camera.jpg",
+    "description": "Make space for your creative side. Capture the places, people and moments that tell your story.",
+    "specs": [
+      "Digital camera",
+      "Lens included in sample listing",
+      "Photography essential"
+    ],
+    "active": true
+  },
+  {
+    "id": "lamp",
+    "name": "Everyday Table Lamp",
+    "category": "Home & Living",
+    "price": 1299,
+    "mrp": 1999,
+    "rating": 4.5,
+    "reviews": 72,
+    "tag": "HOME EDIT",
+    "image": "lamp.jpg",
+    "description": "Bring a warm finishing touch to your favourite corner. A simple lamp for desks, bedside tables and cosy evenings.",
+    "specs": [
+      "Tabletop design",
+      "Indoor use",
+      "Decorative lighting"
+    ],
+    "active": true
+  },
+  {
+    "id": "coffee",
+    "name": "Classic French Press",
+    "category": "Home & Living",
+    "price": 899,
+    "mrp": 1499,
+    "rating": 4.7,
+    "reviews": 104,
+    "tag": "SLOW MORNINGS",
+    "image": "coffee-maker.jpg",
+    "description": "Make your morning a little slower. Brew your favourite ground coffee with a classic, uncomplicated French press.",
+    "specs": [
+      "Manual brewing",
+      "Reusable press filter",
+      "For ground coffee"
+    ],
+    "active": true
+  }
+]
