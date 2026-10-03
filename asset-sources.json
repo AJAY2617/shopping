@@ -1,0 +1,55 @@
+[
+  {
+    "filename": "headphones.jpg",
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1000&h=1000&q=85",
+    "source_url": "https://unsplash.com/photos/PDX_a_82obo",
+    "bytes": 103777
+  },
+  {
+    "filename": "smartphone.jpg",
+    "image_url": "https://images.unsplash.com/photo-1671899736981-d917010b8fb4?auto=format&fit=crop&w=1000&h=1000&q=85",
+    "source_url": "https://unsplash.com/photos/7oldMLvqAbA",
+    "bytes": 118399
+  },
+  {
+    "filename": "smartwatch.jpg",
+    "image_url": "https://images.unsplash.com/photo-1636877648317-fc6275acf0dd?auto=format&fit=crop&w=1000&h=1000&q=85",
+    "source_url": "https://unsplash.com/photos/aRfWomdyTNg",
+    "bytes": 46846
+  },
+  {
+    "filename": "sneakers.jpg",
+    "image_url": "https://images.unsplash.com/photo-1727060167812-a53ac9b802d4?auto=format&fit=crop&crop=bottom&w=1000&h=1000&q=85",
+    "source_url": "https://unsplash.com/photos/LIR5VDYMaaA",
+    "bytes": 99694
+  },
+  {
+    "filename": "backpack.jpg",
+    "image_url": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&w=1000&h=1000&q=85",
+    "source_url": "https://unsplash.com/photos/BmH09wAkJa8",
+    "bytes": 219134
+  },
+  {
+    "filename": "camera.jpg",
+    "image_url": "https://images.unsplash.com/photo-1701382334837-d3a98fff1770?auto=format&fit=crop&w=1000&h=1000&q=85",
+    "source_url": "https://unsplash.com/photos/Y4rY3_BM5Io",
+    "bytes": 74339
+  },
+  {
+    "filename": "lamp.jpg",
+    "image_url": "https://images.unsplash.com/photo-1678111731954-edb244cd5880?auto=format&fit=crop&w=1000&h=1000&q=85",
+    "source_url": "https://unsplash.com/photos/Ftrwmi5Li8c",
+    "bytes": 68613
+  },
+  {
+    "filename": "coffee-maker.jpg",
+    "image_url": "https://images.unsplash.com/photo-1641266886437-28abcc2b3288?auto=format&fit=crop&w=1000&h=1000&q=85",
+    "source_url": "https://unsplash.com/photos/PFU5jwS7StY",
+    "bytes": 106935
+  },
+  {
+    "filename": "headphones-hero.jpg",
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1600&q=90",
+    "source_url": "https://unsplash.com/photos/PDX_a_82obo"
+  }
+]
